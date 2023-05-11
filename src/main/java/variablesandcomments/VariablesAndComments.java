@@ -34,6 +34,7 @@ public class VariablesAndComments {
         upperLimitOfShortDataType = 32767; // initializare variabila de tip short - last value
         lowerLimitOfIntDataType = -2147483648; // initializare variabila de tip int - first value
         upperLimitOfIntDataType = 2147483647; // initializare variabila de tip int - last value
+<<<<<<< HEAD
         lowerLimitOfLongDataType = -9223372036854775808L; // initializare variabila de tip long - first value
         upperLimitOfLongDataType = 9223372036854775807L; // initializare variabila de tip long - last value
         lowerLimitOfFloatDataType = -3.4E+38f; // initializare variabila de tip float - first value
@@ -44,5 +45,14 @@ public class VariablesAndComments {
 
             System.out.println( falseBooleanVariable );
         }
+=======
+        lowerLimitOfLongDataType = -9223372036854775808; // initializare variabila de tip long - first value
+        upperLimitOfLongDataType = 9223372036854775807; // initializare variabila de tip long - last value
+        lowerLimitOfFloatDataType = -3.4E + 38; // initializare variabila de tip float - first value
+        upperLimitOfFloatDataType = 3.4E +38; // initializare variabila de tip float - last value
+        lowerLimitOfDoubleDataType = -1.7E +308; // initializare variabila de tip double - first value
+        upperLimitOfDoubleDataType = 1.7E +308; // initializare variabila de tip double - last value
+
+>>>>>>> origin/master
     }
 }
