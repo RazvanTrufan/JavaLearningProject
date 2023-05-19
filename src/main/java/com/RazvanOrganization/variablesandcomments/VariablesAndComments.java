@@ -1,4 +1,4 @@
-package variablesandcomments;
+package com.RazvanOrganization.variablesandcomments;
 
 public class VariablesAndComments {
 

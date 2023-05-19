@@ -1,4 +1,4 @@
-package gitworkflow;
+package com.RazvanOrganization.gitworkflow;
 
 public class GitWorkFlow {
 
