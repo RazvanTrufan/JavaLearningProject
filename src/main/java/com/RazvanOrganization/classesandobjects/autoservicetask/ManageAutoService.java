@@ -1,4 +1,4 @@
-package com.RazvanOrganization.autoservicetask;
+package com.RazvanOrganization.classesandobjects.autoservicetask;
 
 public class ManageAutoService {
     public static void main(String[] args) {

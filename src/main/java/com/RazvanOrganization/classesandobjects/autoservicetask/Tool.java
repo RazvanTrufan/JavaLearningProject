@@ -1,4 +1,4 @@
-package com.RazvanOrganization.autoservicetask;
+package com.RazvanOrganization.classesandobjects.autoservicetask;
 
 public class Tool {
     boolean needsElectricity;

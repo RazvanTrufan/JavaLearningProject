@@ -1,4 +1,4 @@
-package com.RazvanOrganization.autoservicetask;
+package com.RazvanOrganization.classesandobjects.autoservicetask;
 
 public class Garage {
     String address;
